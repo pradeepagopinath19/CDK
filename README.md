@@ -12,3 +12,6 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
  * `cdk deploy`      deploy this stack to your default AWS account/region
  * `cdk diff`        compare deployed stack with current state
  * `cdk synth`       emits the synthesized CloudFormation template
+
+## Reference code
+## https://github.com/SwiftNextStep/aws-cdk-simple-app/blob/main/lib/simple-app-stack.ts
